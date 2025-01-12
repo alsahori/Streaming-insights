@@ -23,7 +23,7 @@ int main()
 
 
 
-	//promote user to include their hotspot data plan in gigabytes(per month)
+	//prompt user to include their hotspot data plan in gigabytes(per month)
 	cout << " How many gigabytes of data are you including in your monthly hotspot plan?/n";
 	cin >> gigabytes;
 
